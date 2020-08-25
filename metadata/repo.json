@@ -1,9 +1,9 @@
 {
-    "contacts": [ "{{creator}}", "{{securitygroup}}" ],
+    "contacts": [ "istoderi@microsoft.com", "oxoengfteps@microsoft.com" ],
     "description": "",
-    "deployedToProduction": {{externalfacing}},
+    "deployedToProduction": false,
     "complianceTypes": [],
-    "inventoryId": [ {{servicetreeids}} ],
+    "inventoryId": [ "038ee5d9-ca92-4ecb-969b-37c554b03d86" ],
     "schema": {
         "office": "1.0.0"
     }
